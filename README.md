@@ -1,16 +1,106 @@
-## Hi there 👋
+# 🌌 LyPolarisLab
 
-<!--
-**LyPolarisLab/LyPolarisLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Exploring the universe through code, robotics and artificial intelligence.
 
-Here are some ideas to get you started:
+Welcome to my personal laboratory.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LyPolarisLab is a place where I document my journey in technology, science and engineering through hands-on projects ( and a little in math...)
+
+---
+
+## 🚀 About me
+
+I am learning and building projects around:
+
+- 🐍 Python programming
+- 🤖 Robotics
+- 👁️ Computer Vision
+- 🧠 Artificial Intelligence
+- 🌌 Astronomy and astrophysics ( I try)
+- 📊 Data analysis
+
+My goal is to understand how technology can help us explore, automate and create.
+
+---
+
+# 🔭 Current Missions
+
+## 🤖 MyCobot 280
+
+Learning robot programming with Python:
+
+- Robot control
+- Motion programming
+- Coordinate systems
+- Gesture recognition
+- Computer vision integration
+
+
+## 👁️ Computer Vision
+
+### MediaPipe Hand Tracking
+
+Exploring:
+
+- Hand landmark detection
+- Gesture recognition
+- Human-machine interaction
+
+
+## 🌌 Astronomy Projects
+
+Coming soon:
+
+- Star data analysis
+- Orbital simulations
+- Space-related programming projects
+
+
+---
+
+# 📚 Learning Journal
+
+I believe progress comes from experimentation.
+
+Each project contains:
+
+✅ Objective  
+✅ Concepts learned  
+✅ Challenges encountered  
+✅ Solutions explored  
+✅ Improvements
+
+
+---
+
+# 🛠️ Tools & Technologies
+
+Python
+OpenCV
+MediaPipe
+Arduino (soon)
+ESP32 (soon)
+MyCobot
+Power BI 
+Git
+GitHub
+
+
+---
+
+# ⭐ Current Focus
+
+Building bridges between:
+
+🌌 Science  
+💻 Code  
+🤖 Robotics  
+🧠 Artificial Intelligence  
+
+
+---
+
+*"The universe is not only something to observe, but something to understand."*
+
+
+
