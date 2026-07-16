@@ -1,51 +1,127 @@
-# 🤖 MyCobot 280 Learning Log
+# 🤖 MyCobot 280 - Learning Log
 
-## Mission 01 - Robot communication
+## About this project
 
-### Objective
+This document tracks my experiments, challenges and improvements while learning robotics with the MyCobot 280 M5.
 
-Connect the MyCobot 280 with Python.
-
-### Tools
-
-- Python
-- pymycobot
-- MyCobot 280 M5
-
-### Experiments
-
-- Reading joint angles
-- Sending robot positions
-- Testing communication
-
-### Problems encountered
-
-- Understanding joint values
-- Robot position calibration
-- Unexpected movements
-
-### Solutions explored
-
-- Testing `get_angles()`
-- Testing `send_angles()`
-- Comparing expected and real positions
+The goal is to understand robot control, programming and human-robot interaction using Python.
 
 ---
 
-## Mission 02 - Gesture recognition
+# 🚀 Mission 01 - Robot communication
 
-### Objective
+## Objective
 
-Control the robot using hand gestures.
+Understand how to communicate with the robot using Python.
 
-### Technologies
+## Hardware
+
+- MyCobot 280 M5
+
+## Technologies
+
+- Python
+- pymycobot
+
+## Experiments
+
+I explored:
+
+- Connecting Python with the robot
+- Reading joint positions
+- Sending movement commands
+
+Functions studied:
+
+- `get_angles()`
+- `send_angles()`
+
+---
+
+# ⚙️ Mission 02 - Joint control
+
+## Objective
+
+Understand how individual robot joints work.
+
+## Concepts explored
+
+- Joint numbers
+- Angle values
+- Movement constraints
+- Robot position
+
+## Challenges
+
+- Understanding the meaning of each joint
+- Interpreting returned angle values
+- Finding safe movements
+
+---
+
+# 🔄 Mission 03 - Movement programming
+
+## Objective
+
+Create reusable robot movements.
+
+## Developed features
+
+- Basic movements
+- Rotation
+- Left/right movements
+- Rest positions
+
+## Concepts learned
+
+- Python functions
+- Parameters
+- Movement sequences
+
+---
+
+# 👁️ Mission 04 - Computer Vision integration
+
+## Objective
+
+Control the robot using human gestures.
+
+## Technologies
 
 - OpenCV
 - MediaPipe
 
-### Pipeline
+## Pipeline
 
-Camera → Hand detection → Gesture recognition → Robot command
+Camera  
+↓  
+Hand detection  
+↓  
+Gesture recognition  
+↓  
+Robot command
 
-Status:
+## Current status
+
+🚧 In progress
+
+---
+
+# 🧩 Problems encountered
+
+Examples:
+
+- Robot position not matching expected values
+- Understanding joint behaviour
+- Mapping gestures to movements
+- Debugging communication
+
+---
+
+# 🔭 Future improvements
+
+- Improve gesture recognition
+- Add face tracking
+- Create more autonomous behaviours
+- Explore AI-assisted robotics
 🚧 In progress
