@@ -99,6 +99,16 @@ Building bridges between:
 
 
 ---
+## Learning approach
+
+My projects are built through challenge-based learning.
+
+Each project starts with:
+- a problem to solve
+- technical constraints
+- research and experimentation
+
+I use documentation and AI-assisted guidance as learning resources, while designing, coding and testing my own solutions.
 
 *"The universe is not only something to observe, but something to understand."*
 
