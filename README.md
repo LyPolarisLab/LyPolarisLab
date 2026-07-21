@@ -23,9 +23,9 @@ My goal is to understand how technology can help us explore, automate and create
 
 ---
 
-Current Missions
+# Current Missions
 
-# MyCobot 280
+## MyCobot 280
 
 Learning robot programming with Python:
 
@@ -36,9 +36,9 @@ Learning robot programming with Python:
 - Computer vision integration
 
 
-Computer Vision
+## Computer Vision
 
-# MediaPipe Hand Tracking
+### MediaPipe Hand Tracking
 
 Exploring:
 
@@ -47,7 +47,7 @@ Exploring:
 - Human-machine interaction
 
 
-Astronomy Projects
+## Astronomy Projects
 
 Coming soon:
 
