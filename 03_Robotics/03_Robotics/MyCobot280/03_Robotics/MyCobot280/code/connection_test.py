@@ -6,7 +6,6 @@ First experiment:
 - Check robot communication
 - Read robot information
 
-Author: LyPolarisLab
 """
 
 
