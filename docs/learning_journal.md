@@ -1,4 +1,4 @@
-# 🌌 Learning Journal
+#  Learning Journal
 
 Welcome to my learning journey.
 
@@ -6,9 +6,9 @@ This document tracks my progress, experiments and discoveries in programming, ro
 
 ---
 
-# 🚀 Missions
+#  Missions
 
-## 🤖 MyCobot 280
+##  MyCobot 280
 
 Status:
 🚧 In progress
@@ -21,7 +21,7 @@ Topics explored:
 
 ---
 
-## 🌌 Astronomy
+##  Astronomy
 
 Status:
 🚧 In progress
@@ -33,7 +33,7 @@ Topics explored:
 
 ---
 
-# 📚 Lessons learned
+#  Lessons learned
 
 ## 2026
 
