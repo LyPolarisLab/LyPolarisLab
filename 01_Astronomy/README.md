@@ -1,8 +1,8 @@
-# 🌌 Astronomy Projects
+# Astronomy Projects
 
 Projects related to astronomy, astrophysics and space data.
 
-## Future missions
+# Future missions
 
 - Star analysis
 - Orbital simulations
