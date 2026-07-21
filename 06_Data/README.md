@@ -1,4 +1,4 @@
-# 📊 Data Projects
+# Data Projects
 
 Exploring data analysis and visualization.
 
