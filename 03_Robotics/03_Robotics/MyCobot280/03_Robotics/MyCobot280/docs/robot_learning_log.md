@@ -91,16 +91,6 @@ Control the robot using human gestures.
 - OpenCV
 - MediaPipe
 
-# Pipeline
-
-Camera  
-↓  
-Hand detection  
-↓  
-Gesture recognition  
-↓  
-Robot command
-
 # Current status
 
  In progress:
