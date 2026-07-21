@@ -1,4 +1,4 @@
-# 👁️ Computer Vision
+# Computer Vision
 
 Projects involving image processing and artificial intelligence.
 
