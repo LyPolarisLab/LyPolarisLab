@@ -11,7 +11,7 @@ This document tracks my progress, experiments and discoveries in programming, ro
 ##  MyCobot 280
 
 Status:
-🚧 In progress
+ In progress
 
 Topics explored:
 - Robot control with Python
@@ -24,7 +24,7 @@ Topics explored:
 ##  Astronomy
 
 Status:
-🚧 In progress
+ In progress
 
 Topics explored:
 - Star data analysis
