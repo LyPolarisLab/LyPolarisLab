@@ -1,4 +1,4 @@
-# 🧠 Artificial Intelligence
+# Artificial Intelligence
 
 Exploring machine learning and AI concepts.
 
