@@ -1,4 +1,4 @@
-# 🌌 LyPolarisLab
+# LyPolarisLab
 
 > Exploring the universe through code, robotics and artificial intelligence.
 
@@ -8,24 +8,24 @@ LyPolarisLab is a place where I document my journey in technology, science and e
 
 ---
 
-## 🚀 About me
+##  About me
 
 I am learning and building projects around:
 
-- 🐍 Python programming
-- 🤖 Robotics
-- 👁️ Computer Vision
-- 🧠 Artificial Intelligence
-- 🌌 Astronomy and astrophysics ( I try)
-- 📊 Data analysis
+-  Python programming
+-  Robotics
+-  Computer Vision
+-  Artificial Intelligence
+-  Astronomy and astrophysics ( I try)
+-  Data analysis
 
 My goal is to understand how technology can help us explore, automate and create.
 
 ---
 
-# 🔭 Current Missions
+Current Missions
 
-## 🤖 MyCobot 280
+# MyCobot 280
 
 Learning robot programming with Python:
 
@@ -36,9 +36,9 @@ Learning robot programming with Python:
 - Computer vision integration
 
 
-## 👁️ Computer Vision
+Computer Vision
 
-### MediaPipe Hand Tracking
+# MediaPipe Hand Tracking
 
 Exploring:
 
@@ -47,7 +47,7 @@ Exploring:
 - Human-machine interaction
 
 
-## 🌌 Astronomy Projects
+Astronomy Projects
 
 Coming soon:
 
@@ -58,22 +58,22 @@ Coming soon:
 
 ---
 
-# 📚 Learning Journal
+# Learning Journal
 
 I believe progress comes from experimentation.
 
 Each project contains:
 
-✅ Objective  
-✅ Concepts learned  
-✅ Challenges encountered  
-✅ Solutions explored  
-✅ Improvements
+ Objective  
+ Concepts learned  
+ Challenges encountered  
+ Solutions explored  
+ Improvements
 
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 Python
 OpenCV
@@ -88,18 +88,18 @@ GitHub
 
 ---
 
-# ⭐ Current Focus
+# Current Focus
 
 Building bridges between:
 
-🌌 Science  
-💻 Code  
-🤖 Robotics  
-🧠 Artificial Intelligence  
+ Science  
+ Code  
+ Robotics  
+ Artificial Intelligence  
 
 
 ---
-## Learning approach
+# Learning approach
 
 My projects are built through challenge-based learning.
 
@@ -109,6 +109,13 @@ Each project starts with:
 - research and experimentation
 
 I use documentation and AI-assisted guidance as learning resources, while designing, coding and testing my own solutions.
+
+My learning ressources (for the moment)
+
+- AI
+- Python du grand débutant à la programmation d'objet, édition elipse
+- L'astronomie en 101 infographie, édition Larousse
+- Make: Electronics: Learn by Discovery, édition Make Community, LLCs
 
 *"The universe is not only something to observe, but something to understand."*
 
