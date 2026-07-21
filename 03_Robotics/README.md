@@ -1,4 +1,4 @@
-# 🤖 Robotics Projects
+# Robotics Projects
 
 Experiments with robots and embedded systems.
 
