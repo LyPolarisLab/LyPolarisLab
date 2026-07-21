@@ -1,6 +1,6 @@
-# 🤖 MyCobot 280 - Learning Log
+# MyCobot 280 - Learning Log
 
-## About this project
+# About this project
 
 This document tracks my experiments, challenges and improvements while learning robotics with the MyCobot 280 M5.
 
@@ -8,22 +8,22 @@ The goal is to understand robot control, programming and human-robot interaction
 
 ---
 
-# 🚀 Mission 01 - Robot communication
+#  Mission 01 - Robot communication
 
-## Objective
+# Objective
 
 Understand how to communicate with the robot using Python.
 
-## Hardware
+# Hardware
 
 - MyCobot 280 M5
 
-## Technologies
+# Technologies
 
 - Python
 - pymycobot
 
-## Experiments
+# Experiments
 
 I explored:
 
@@ -38,20 +38,20 @@ Functions studied:
 
 ---
 
-# ⚙️ Mission 02 - Joint control
+# Mission 02 - Joint control
 
-## Objective
+# Objective
 
 Understand how individual robot joints work.
 
-## Concepts explored
+# Concepts explored
 
 - Joint numbers
 - Angle values
 - Movement constraints
 - Robot position
 
-## Challenges
+# Challenges
 
 - Understanding the meaning of each joint
 - Interpreting returned angle values
@@ -59,20 +59,20 @@ Understand how individual robot joints work.
 
 ---
 
-# 🔄 Mission 03 - Movement programming
+# Mission 03 - Movement programming
 
-## Objective
+# Objective
 
 Create reusable robot movements.
 
-## Developed features
+# Developed features
 
 - Basic movements
 - Rotation
 - Left/right movements
 - Rest positions
 
-## Concepts learned
+# Concepts learned
 
 - Python functions
 - Parameters
@@ -80,18 +80,18 @@ Create reusable robot movements.
 
 ---
 
-# 👁️ Mission 04 - Computer Vision integration
+# Mission 04 - Computer Vision integration
 
-## Objective
+# Objective
 
 Control the robot using human gestures.
 
-## Technologies
+# Technologies
 
 - OpenCV
 - MediaPipe
 
-## Pipeline
+# Pipeline
 
 Camera  
 ↓  
@@ -101,13 +101,15 @@ Gesture recognition
 ↓  
 Robot command
 
-## Current status
+# Current status
 
-🚧 In progress
+ In progress:
+
+- Add face tracking
 
 ---
 
-# 🧩 Problems encountered
+# Problems encountered
 
 Examples:
 
@@ -118,10 +120,9 @@ Examples:
 
 ---
 
-# 🔭 Future improvements
+#  Future improvements
 
 - Improve gesture recognition
-- Add face tracking
 - Create more autonomous behaviours
 - Explore AI-assisted robotics
-🚧 In progress
+.....
