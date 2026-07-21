@@ -1,6 +1,6 @@
-# 🤖 MyCobot 280
+# MyCobot 280
 
-## Overview
+# Overview
 
 This project documents my learning journey with the MyCobot 280 robotic arm.
 
@@ -8,7 +8,7 @@ The objective is to understand robot programming, motion control and human-machi
 
 ---
 
-## 🎯 Objectives
+# Objectives
 
 - Control the robot using Python
 - Understand robot movements
@@ -18,18 +18,18 @@ The objective is to understand robot programming, motion control and human-machi
 
 ---
 
-## 🛠️ Technologies
+# Technologies
 
 - Python
 - pymycobot
 - MyCobot 280 M5
-- Computer Vision (future)
+- Computer Vision (in progress)
 
 ---
 
-## 📌 Progress
+# Progress
 
-### ✅ Completed
+# Completed
 
 - Connection between Python and robot
 - Reading robot angles
@@ -37,14 +37,14 @@ The objective is to understand robot programming, motion control and human-machi
 - Creating basic movement functions
 
 
-### 🔄 In progress
+# In progress
 
 - Gesture recognition with MediaPipe
 - Mapping hand movements to robot actions
 - Improving robot behaviour
 
 
-### 🔭 Future ideas
+# Future ideas
 
 - Autonomous movements
 - Vision-based interaction
@@ -52,6 +52,6 @@ The objective is to understand robot programming, motion control and human-machi
 
 ---
 
-## 📚 Learning notes
+# Learning notes
 
 This project is a practical exploration of robotics through experimentation, debugging and continuous improvement.
