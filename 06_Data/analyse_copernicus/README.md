@@ -13,7 +13,7 @@ Premier contact concret avec des données d'observation de la Terre. L'objectif 
 - Source : [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu)
 - Satellite : Sentinel-2, produit L2A (données déjà corrigées atmosphériquement)
 - Zone : Forêt de Fontainebleau
-- Date : 18 septembre 2026
+- Date : 19 septembre 2026
 - Deux bandes spectrales au format GeoTIFF :
   - **B04** — bande rouge (~665 nm)
   - **B08** — bande proche infrarouge / NIR (~842 nm)
