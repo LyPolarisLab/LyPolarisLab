@@ -1,123 +1,54 @@
 # LyPolarisLab
 
-> Exploring the universe through code, robotics and artificial intelligence.
-
-Welcome to my personal laboratory.
-
-LyPolarisLab is a place where I document my journey in technology, science and engineering through hands-on projects ( and a little in math...)
+Personal research lab — cognitive robotics, reinforcement learning, and AI evaluation.
 
 ---
 
-##  About me
+## Current projects
 
-I am learning and building projects around:
+### Cognitive Robotics — MyCobot 280 M5
 
--  Python programming
--  Robotics
--  Computer Vision
--  Artificial Intelligence
--  Astronomy and astrophysics ( I try)
--  Data analysis
+Building an autonomous robotic arm that learns from human interaction.
 
-My goal is to understand how technology can help us explore, automate and create.
+- **Gesture-based control**: MediaPipe hand tracking → real-time robot response (wave, nod, shake)
+- **Face detection**: OpenCV Haar cascades for human presence awareness
+- **Joint control**: Interactive joint manipulation interface
+- **Movement library**: Reusable motion functions with configurable speed and repetitions
 
----
+Currently implementing tabular Q-learning for autonomous behavior. Next step: extending to DQN with PyTorch.
 
-# Current Missions
+→ `robotics/mycobot280/`
 
-## MyCobot 280
+### COGNI-TEST *(in progress)*
 
-Learning robot programming with Python:
+Evaluation protocol for LLM cognitive capabilities — testing contradiction detection, expressed uncertainty, and response revision under controlled conditions.
 
-- Robot control
-- Motion programming
-- Coordinate systems
-- Gesture recognition
-- Computer vision integration
+- 2×2 experimental design (prompt length × contradiction presence)
+- 3 evaluation conditions (initial response, neutral re-examination, guided correction)
+- Metrics: F1, precision, recall, confusion matrices
+- Python + LLM API + Pandas + scikit-learn
 
+→ Coming soon
 
-## Computer Vision
+### Black Hole Simulator
 
-### MediaPipe Hand Tracking
+Schwarzschild radius calculator using real NASA data. Two versions:
 
-Exploring:
+- **v1**: Basic calculator with matplotlib log-scale visualization (stellar vs supermassive)
+- **v2**: Interactive CLI with dictionaries of black holes (stellar, intermediate, supermassive) and astronomical objects — simulation, exploration, comparison, and custom object creation
 
-- Hand landmark detection
-- Gesture recognition
-- Human-machine interaction
-
-
-## Astronomy Projects
-
-Coming soon:
-
-- Star data analysis
-- Orbital simulations
-- Space-related programming projects
-
+→ `astronomy/`
 
 ---
 
-# Learning Journal
+## Stack
 
-I believe progress comes from experimentation.
-
-Each project contains:
-
- Objective  
- Concepts learned  
- Challenges encountered  
- Solutions explored  
- Improvements
-
+Python · pymycobot · OpenCV · MediaPipe · Matplotlib · Pandas · scikit-learn · PyTorch *(learning)*
 
 ---
 
-# Tools & Technologies
+## About
 
-Python
-OpenCV
-MediaPipe
-Arduino (soon)
-ESP32 (soon)
-MyCobot
-Power BI 
-Git
-GitHub
+I'm an early-career AI researcher exploring how autonomous systems can develop adaptive behavior through interaction. My work sits at the intersection of robotics, reinforcement learning, and cognitive science — with a particular interest in how machines handle uncertainty and self-evaluate.
 
-
----
-
-# Current Focus
-
-Building bridges between:
-
- Science  
- Code  
- Robotics  
- Artificial Intelligence  
-
-
----
-# Learning approach
-
-My projects are built through challenge-based learning.
-
-Each project starts with:
-- a problem to solve
-- technical constraints
-- research and experimentation
-
-I use documentation and AI-assisted guidance as learning resources, while designing, coding and testing my own solutions.
-
-My learning ressources (for the moment)
-
-- AI
-- Python du grand débutant à la programmation d'objet, édition elipse
-- L'astronomie en 101 infographie, édition Larousse
-- Make: Electronics: Learn by Discovery, édition Make Community, LLCs
-
-*"The universe is not only something to observe, but something to understand."*
-
-
-
+Currently: M2 Data & AI at INSEEC Paris | BI Developer at Framatome (apprenticeship)
