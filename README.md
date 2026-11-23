@@ -28,7 +28,7 @@ Evaluation protocol for LLM cognitive capabilities — testing contradiction det
 - Metrics: F1, precision, recall, confusion matrices
 - Python + LLM API + Pandas + scikit-learn
 
-→ Coming soon
+→ `cogni-test/`
 
 ### Black Hole Simulator
 
